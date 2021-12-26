@@ -1,5 +1,5 @@
 # I have simply uploaded an ASCI logo created in another file
-from art import logo
+from blind_auction_art import logo
 print(logo)
 # I have created an empty dictionary for our function later on, and the following boolean is for the while loop so that it doesn't exit the program after the first run
 bids = {}
