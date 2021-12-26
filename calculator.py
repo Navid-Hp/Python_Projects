@@ -1,4 +1,4 @@
-from art import logo
+from calculator_art import logo
 # in the following lines of codes, I have defined functions to carry out the four basic operations - you can define more functions to cover more advanced arithmetic operations
 def add(n1, n2):
   return n1 + n2
