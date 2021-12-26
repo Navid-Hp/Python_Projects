@@ -17,7 +17,7 @@ def caesar(start_text, shift_amount, cipher_direction):
   print(f"Here's the {cipher_direction}d result: {end_text}")
 
 # Here we have simply imported a graphic logo from another python file which is not nexessary for this program!
-from art import logo
+from caesar_cipher_art import logo
 print(logo)
 
 # This while loop is a way to ask for the user's decision to stop or continue decoding/encoding messages. Only whe the user chooses to stop will the program exit
