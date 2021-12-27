@@ -1,4 +1,4 @@
-from game_data import data
+from higher_lower_game_data import data
 import random
 from higher_lower_game_art import logo, vs
 
